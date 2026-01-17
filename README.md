@@ -1,7 +1,10 @@
-# 🌍 LexiSphere – Language Exchange Chat & Video Call App
+# LexiSphere – Language Exchange Chat & Video Call App
 
 LexiSphere is a **real-time language learning platform** where users can connect with people from around the world to practice new languages through **chat and video calls**.  
 The app intelligently matches users based on their **native language** and **learning language**, making language exchange natural and effective.
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8a6474e0-9c53-42ef-a583-c9c283ed3a1f" />
+
 
 ---
 
@@ -81,3 +84,4 @@ The app intelligently matches users based on their **native language** and **lea
 - ☁️ Render (frontend + backend)
 - 🗄️ MongoDB Atlas
 - 🔒 Secure environment variables
+
